@@ -29,4 +29,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/01_Scene/MainTest8.unity
     guid: d775d118ebe0b814e9c2623a9868ee03
+  - enabled: 1
+    path: Assets/01_Scene/MainTest9.unity
+    guid: 16dec8191a39f4c4b903d2c591f2a549
+  - enabled: 1
+    path: Assets/01_Scene/MainTest10.unity
+    guid: 9b790c4dfee595746948bda2ff015b22
+  - enabled: 1
+    path: Assets/01_Scene/MainTest11.unity
+    guid: cc72f928f631a204fb4130a12c2e4fb9
+  - enabled: 1
+    path: Assets/01_Scene/MainTest12.unity
+    guid: d9667c08c03fc3746a01b57e47c98556
   m_configObjects: {}
